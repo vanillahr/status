@@ -7,13 +7,18 @@ sites:
     url: https://www.vanillahr.com
   - name: APP
     url: https://app.vanillahr.com
-  #- name: API
-  #  url: https://api.vanillahr.com
+  - name: API
+    url: https://api.vanillahr.com
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   # cname: status.vanillahr.com
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/vanillahr/status/master/assets/vanillahr.svg
+  themeUrl: https://raw.githubusercontent.com/vanillahr/status/master/assets/purple.css
+  favicon: https://raw.githubusercontent.com/vanillahr/status/master/assets/vanillahr-icon.png
   name: Status Page
   introTitle: ""
   introMessage: ""

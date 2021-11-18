@@ -17,8 +17,8 @@ status-website:
   # cname: status.vanillahr.com
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/vanillahr/status/master/assets/vanillahr.svg
-  themeUrl: https://raw.githubusercontent.com/vanillahr/status/master/assets/purple.css
-  favicon: https://raw.githubusercontent.com/vanillahr/status/master/assets/vanillahr-icon.png
+  #themeUrl: https://raw.githubusercontent.com/vanillahr/status/master/assets/purple.css
+  #favicon: https://raw.githubusercontent.com/vanillahr/status/master/assets/vanillahr-icon.png
   name: Status Page
   introTitle: ""
   introMessage: ""

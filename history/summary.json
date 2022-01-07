@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.vanillahr.com",
     "slug": "website",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.89%",
-    "time": 465,
-    "timeDay": 477,
-    "timeWeek": 485,
-    "timeMonth": 479,
-    "timeYear": 465,
+    "uptimeYear": "99.90%",
+    "time": 483,
+    "timeDay": 1471,
+    "timeWeek": 629,
+    "timeMonth": 509,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2021-12-20": 74
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 372,
-    "timeWeek": 389,
-    "timeMonth": 373,
-    "timeYear": 375,
+    "time": 392,
+    "timeDay": 1329,
+    "timeWeek": 524,
+    "timeMonth": 404,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 357,
-    "timeWeek": 376,
-    "timeMonth": 368,
+    "timeDay": 378,
+    "timeWeek": 378,
+    "timeMonth": 369,
     "timeYear": 372,
     "dailyMinutesDown": {}
   }

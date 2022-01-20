@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.75%",
-    "time": 454,
-    "timeDay": 139,
-    "timeWeek": 162,
-    "timeMonth": 447,
-    "timeYear": 454,
+    "time": 450,
+    "timeDay": 125,
+    "timeWeek": 151,
+    "timeMonth": 437,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2022-01-12": 153,
       "2021-12-20": 74
@@ -26,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/app.vanillahr.com",
     "slug": "app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.53%",
+    "uptimeDay": "70.28%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.53%",
     "time": 388,
-    "timeDay": 400,
-    "timeWeek": 373,
-    "timeMonth": 405,
+    "timeDay": 0,
+    "timeWeek": 378,
+    "timeMonth": 407,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-01-19": 0
+      "2022-01-20": 43,
+      "2022-01-19": 385
     }
   },
   {
@@ -46,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/api.vanillahr.com",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.53%",
+    "uptimeDay": "70.29%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.53%",
     "time": 373,
-    "timeDay": 377,
-    "timeWeek": 380,
+    "timeDay": 0,
+    "timeWeek": 381,
     "timeMonth": 370,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-01-19": 0
+      "2022-01-20": 43,
+      "2022-01-19": 385
     }
   }
 ]

@@ -41,22 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/api.vanillahr.com",
     "slug": "api",
     "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "67.28%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "96.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 381,
     "timeWeek": 380,
     "timeMonth": 371,
     "timeYear": 373,
-    "dailyMinutesDown": {
-      "2022-01-22": 33,
-      "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 385
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -64,21 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/api.vanillahr.com",
     "slug": "api",
     "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "67.28%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "96.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 381,
     "timeWeek": 380,
     "timeMonth": 371,
     "timeYear": 373,
-    "dailyMinutesDown": {
-      "2022-01-22": 33,
-      "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 385
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -5,13 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Website
     url: https://www.vanillahr.com
-  - name: APP
-    url: https://app.vanillahr.com
+  - name: Auth
+    url: https://auth.vanillahr.com
   - name: API
-    url: https://api.vanillahr.com
-    expectedStatusCodes:
-      - 200
-      - 401
+    url: https://api.vanillahr.com/v1/auth
+  - name: API
+    url: https://api.vanillahr.com/v1/form
 
 status-website:
   # cname: status.vanillahr.com

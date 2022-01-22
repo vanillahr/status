@@ -9,8 +9,6 @@ sites:
     url: https://auth.vanillahr.com
   - name: API
     url: https://api.vanillahr.com/v1/auth
-  - name: API
-    url: https://api.vanillahr.com/v1/form
 
 status-website:
   # cname: status.vanillahr.com

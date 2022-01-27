@@ -40,7 +40,7 @@
     "url": "https://api.vanillahr.com/v1/auth",
     "icon": "https://favicons.githubusercontent.com/api.vanillahr.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
@@ -52,6 +52,7 @@
     "timeMonth": 426,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2022-01-25": 53
     }
   }

@@ -4,19 +4,19 @@
     "url": "https://www.vanillahr.com",
     "icon": "https://favicons.githubusercontent.com/www.vanillahr.com",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 129,
-    "timeWeek": 107,
-    "timeMonth": 124,
+    "timeDay": 154,
+    "timeWeek": 118,
+    "timeMonth": 127,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-08-24": 0
+      "2022-08-24": 24
     }
   },
   {

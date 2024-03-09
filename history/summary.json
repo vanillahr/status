@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 209,
-    "timeWeek": 211,
-    "timeMonth": 201,
+    "timeDay": 290,
+    "timeWeek": 225,
+    "timeMonth": 200,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2023-03-10": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 239,
-    "timeWeek": 200,
-    "timeMonth": 297,
-    "timeYear": 217,
+    "timeDay": 286,
+    "timeWeek": 212,
+    "timeMonth": 302,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 972,
-    "timeWeek": 879,
-    "timeMonth": 865,
-    "timeYear": 656,
+    "timeDay": 798,
+    "timeWeek": 861,
+    "timeMonth": 856,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   }
 ]

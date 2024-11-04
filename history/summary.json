@@ -4,19 +4,19 @@
     "url": "https://www.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vanillahr.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 198,
-    "timeWeek": 193,
-    "timeMonth": 218,
+    "timeDay": 226,
+    "timeWeek": 201,
+    "timeMonth": 219,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 18
     }
   },
   {

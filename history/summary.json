@@ -6,15 +6,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 392,
-    "timeWeek": 435,
-    "timeMonth": 365,
-    "timeYear": 249,
+    "time": 238,
+    "timeDay": 514,
+    "timeWeek": 416,
+    "timeMonth": 367,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2025-02-09": 21
     }
@@ -26,15 +26,15 @@
     "slug": "auth",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 466,
+    "time": 468,
     "timeDay": 873,
-    "timeWeek": 885,
-    "timeMonth": 773,
-    "timeYear": 550,
+    "timeWeek": 921,
+    "timeMonth": 778,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-02-09": 21
     }
@@ -46,15 +46,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 350,
-    "timeWeek": 649,
-    "timeMonth": 747,
-    "timeYear": 792,
+    "timeDay": 1095,
+    "timeWeek": 676,
+    "timeMonth": 761,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2025-02-09": 21
     }

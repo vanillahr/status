@@ -4,53 +4,59 @@
     "url": "https://www.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vanillahr.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 830,
-    "timeWeek": 766,
-    "timeMonth": 783,
+    "timeDay": 598,
+    "timeWeek": 731,
+    "timeMonth": 767,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "Auth",
     "url": "https://auth.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.vanillahr.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 480,
-    "timeWeek": 571,
-    "timeMonth": 773,
-    "timeYear": 579,
-    "dailyMinutesDown": {}
+    "timeDay": 275,
+    "timeWeek": 547,
+    "timeMonth": 758,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.vanillahr.com/v1/auth",
     "icon": "https://icons.duckduckgo.com/ip3/api.vanillahr.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 619,
-    "timeWeek": 536,
-    "timeMonth": 610,
-    "timeYear": 775,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 489,
+    "timeWeek": 514,
+    "timeMonth": 599,
+    "timeYear": 773,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   }
 ]

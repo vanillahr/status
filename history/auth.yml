@@ -1,7 +1,7 @@
 url: https://auth.vanillahr.com
-status: down
-code: 403
-responseTime: 138
-lastUpdated: 2025-03-08T19:43:01.297Z
+status: up
+code: 200
+responseTime: 818
+lastUpdated: 2025-03-08T19:54:57.409Z
 startTime: 2022-01-22T00:33:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

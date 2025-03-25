@@ -1,7 +1,7 @@
 url: https://api.vanillahr.com/v1/auth
-status: down
-code: 403
-responseTime: 109
-lastUpdated: 2025-03-25T21:22:53.163Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2025-03-25T21:36:01.637Z
 startTime: 2021-11-18T10:07:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>

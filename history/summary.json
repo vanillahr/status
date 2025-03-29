@@ -4,53 +4,59 @@
     "url": "https://www.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vanillahr.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 877,
-    "timeWeek": 728,
-    "timeMonth": 725,
-    "timeYear": 397,
-    "dailyMinutesDown": {}
+    "timeDay": 508,
+    "timeWeek": 724,
+    "timeMonth": 720,
+    "timeYear": 396,
+    "dailyMinutesDown": {
+      "2025-03-29": 0
+    }
   },
   {
     "name": "Auth",
     "url": "https://auth.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.vanillahr.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 510,
-    "timeWeek": 593,
-    "timeMonth": 597,
-    "timeYear": 608,
-    "dailyMinutesDown": {}
+    "time": 510,
+    "timeDay": 334,
+    "timeWeek": 601,
+    "timeMonth": 594,
+    "timeYear": 607,
+    "dailyMinutesDown": {
+      "2025-03-29": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.vanillahr.com/v1/auth",
     "icon": "https://icons.duckduckgo.com/ip3/api.vanillahr.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 820,
-    "timeWeek": 541,
-    "timeMonth": 570,
-    "timeYear": 728,
-    "dailyMinutesDown": {}
+    "time": 754,
+    "timeDay": 462,
+    "timeWeek": 547,
+    "timeMonth": 567,
+    "timeYear": 727,
+    "dailyMinutesDown": {
+      "2025-03-29": 0
+    }
   }
 ]

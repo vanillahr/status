@@ -4,19 +4,19 @@
     "url": "https://www.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vanillahr.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 778,
-    "timeWeek": 756,
-    "timeMonth": 726,
+    "time": 346,
+    "timeDay": 606,
+    "timeWeek": 722,
+    "timeMonth": 719,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2025-03-29": 12
+      "2025-03-29": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth.vanillahr.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.vanillahr.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
-    "timeDay": 491,
-    "timeWeek": 612,
-    "timeMonth": 597,
-    "timeYear": 607,
+    "timeDay": 395,
+    "timeWeek": 587,
+    "timeMonth": 591,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-03-29": 12
+      "2025-03-29": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.vanillahr.com/v1/auth",
     "icon": "https://icons.duckduckgo.com/ip3/api.vanillahr.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 661,
-    "timeWeek": 574,
-    "timeMonth": 572,
-    "timeYear": 727,
+    "time": 753,
+    "timeDay": 522,
+    "timeWeek": 551,
+    "timeMonth": 567,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-03-29": 12
+      "2025-03-29": 0
     }
   }
 ]
